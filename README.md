@@ -23,15 +23,18 @@ O projeto é composto pelos seguintes componentes:
 A estrutura do projeto é organizada da seguinte forma:
 
 src/
-├── components/
-│   ├── Game.jsx
-│   ├── NewGameForm.jsx
-│   └── TextInput.jsx
-├── hooks/
-│   └── useGameCollection.js
-├── App.jsx
-├── index.css
-└── main.jsx
+|__ components/
+|   |__ Game.jsx
+|   |__ NewGameForm.jsx
+|   |__ TextInput.jsx
+|
+|__ hooks/
+|   |__ useGameCollection.js
+|
+|__ App.jsx
+|__ index.css
+|__ main.jsx
+
 
 ## Como Executar
 
