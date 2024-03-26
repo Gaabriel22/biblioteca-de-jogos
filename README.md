@@ -24,17 +24,9 @@ A estrutura do projeto é organizada da seguinte forma:
 
 src/
 |__ components/
-|   |__ Game/
-|   |   |__ Game.jsx
-|   |   |__ styles.module.css
-|   |
-|   |__ NewGameForm/
-|   |   |__ NewGameForm.jsx
-|   |   |__ styles.module.css
-|   |
-|   |__ TextInput/
-|       |__ TextInput.jsx
-|       |__ styles.module.css
+|   |__ Game.jsx
+|   |__ NewGameForm.jsx
+|   |__ TextInput.jsx
 |
 |__ hooks/
 |   |__ useGameCollection.js
